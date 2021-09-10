@@ -1,0 +1,39 @@
+﻿@model AspNetMvcWebApp1Role.Models.Db.TblProduct
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listTblUserRole = (List<AspNetMvcWebApp1Role.Models.Db.TblUserRole>)Session["TblUserRoles"];
+}
+
+<h2>Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ProductName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProductName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Qty)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Qty)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @if (listTblUserRole.Where(o => o.PageName == "Products" && o.IsUpdate == true).FirstOrDefault() != null)
+    {
+        <a href="/Products/Edit?id=@Model.ProductId">Edit</a>
+    }
+    |
+    @Html.ActionLink("Back to List", "Index")
+</p>

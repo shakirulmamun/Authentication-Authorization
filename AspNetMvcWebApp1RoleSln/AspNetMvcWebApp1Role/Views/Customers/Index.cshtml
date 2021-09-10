@@ -1,0 +1,56 @@
+﻿@model IEnumerable<AspNetMvcWebApp1Role.Models.Db.TblCustomer>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var listTblUserRole = (List<AspNetMvcWebApp1Role.Models.Db.TblUserRole>)Session["TblUserRoles"];
+}
+
+<h2>Index</h2>
+
+<p>
+    @if (listTblUserRole.Where(o => o.PageName == "Customers" && o.IsCreate == true).FirstOrDefault() != null)
+    {
+        @Html.ActionLink("Create New", "Create")
+    }
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CustomerName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CustomerName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+
+            @if (listTblUserRole.Where(o => o.PageName == "Customers" && o.IsUpdate == true).FirstOrDefault() != null)
+            {
+                @Html.ActionLink("Edit", "Edit", new { id = item.CustomerID })
+            }
+            |
+            @if (listTblUserRole.Where(o => o.PageName == "Customers" && o.IsRead == true).FirstOrDefault() != null)
+            {
+                @Html.ActionLink("Details", "Details", new { id = item.CustomerID })
+            }
+            |
+            @if (listTblUserRole.Where(o => o.PageName == "Customers" && o.IsDelete == true).FirstOrDefault() != null)
+            {
+                @Html.ActionLink("Delete", "Delete", new { id = item.CustomerID })
+            }
+        </td>
+    </tr>
+}
+
+</table>

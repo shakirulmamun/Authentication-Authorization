@@ -1,0 +1,498 @@
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll.config
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.pdb
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe.config
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.rsp
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe.config
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.rsp
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Managed.Core.targets
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.AppContext.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Collections.Immutable.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Console.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Globalization.Calendars.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Http.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Sockets.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Reflection.Metadata.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.ValueTuple.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XmlDocument.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe.config
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.rsp
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe.config
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.Web.Infrastructure.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\WebGrease.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.pdb
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CoreCompileInputs.cache
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CopyComplete
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.pdb
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.dll
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.xml
+D:\test_pro\Faruk Abdullah\authentication and authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csprojAssemblyReference.cache
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll.config
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.pdb
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe.config
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.rsp
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe.config
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.rsp
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Managed.Core.targets
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.AppContext.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Collections.Immutable.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Console.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Globalization.Calendars.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Http.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Sockets.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Reflection.Metadata.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.ValueTuple.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XmlDocument.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe.config
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.rsp
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe.config
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.Web.Infrastructure.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\WebGrease.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.pdb
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.AssemblyReference.cache
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CoreCompileInputs.cache
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CopyComplete
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.dll
+E:\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.pdb
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll.config
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.pdb
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe.config
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.rsp
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe.config
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.rsp
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Managed.Core.targets
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.AppContext.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Collections.Immutable.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Console.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Globalization.Calendars.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Http.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Sockets.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Reflection.Metadata.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.ValueTuple.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XmlDocument.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe.config
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.rsp
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe.config
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.Web.Infrastructure.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\WebGrease.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.pdb
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csprojAssemblyReference.cache
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CoreCompileInputs.cache
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CopyComplete
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.dll
+E:\C#\MVC\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.pdb
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll.config
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.pdb
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe.config
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.rsp
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe.config
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.rsp
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.AppContext.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Console.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Http.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.ValueTuple.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe.config
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.rsp
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CopyComplete
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.dll
+C:\Users\Administrator\Desktop\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.pdb
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll.config
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.pdb
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe.config
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.rsp
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe.config
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.rsp
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.AppContext.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Console.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Http.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Sockets.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.ValueTuple.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe.config
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.rsp
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\WebGrease.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.pdb
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.AssemblyReference.cache
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CoreCompileInputs.cache
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CopyComplete
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.dll
+C:\Users\shaki\Downloads\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.pdb
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll.config
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\AspNetMvcWebApp1Role.pdb
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.exe.config
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csc.rsp
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.exe.config
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\csi.rsp
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Managed.Core.targets
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.AppContext.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Collections.Immutable.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Console.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Globalization.Calendars.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Http.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Net.Sockets.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Reflection.Metadata.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.ValueTuple.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XmlDocument.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.exe.config
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\vbc.rsp
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\roslyn\VBCSCompiler.exe.config
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.Web.Infrastructure.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\WebGrease.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\EntityFramework.SqlServer.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Helpers.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Mvc.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Optimization.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.Razor.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Deployment.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\System.Web.WebPages.Razor.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Newtonsoft.Json.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Antlr3.Runtime.pdb
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.AssemblyReference.cache
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CoreCompileInputs.cache
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.csproj.CopyComplete
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.dll
+D:\IDB-BISEW\ASP.NET MVC-5\Project\Login & Logout & Authentication & Authorization\AspNetMvcWebApp1RoleSln\AspNetMvcWebApp1Role\obj\Debug\AspNetMvcWebApp1Role.pdb
